@@ -4,9 +4,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-- 🛡️ [<b>Wazuh SIEM Home Lab</b>](https://github.com/AnsowarA/Wazuh-SIEM-Home-Lab)
-  - Wazuh • Windows 11 • MITRE ATT&CK • Threat Hunting • Vulnerability Detection
-
 - 🔍 [<b>SOC Threat Investigation Lab</b>](https://github.com/AnsowarA/Splunk-SOC-Lab)
   - Splunk • T-Pot • Linux • SPL
 
@@ -33,3 +30,6 @@
 
 - [LinkedIn](https://www.linkedin.com/in/ansowaradem/)
 - [Email](mailto:ansowaradem@gmail.com)
+
+
+just add it here
