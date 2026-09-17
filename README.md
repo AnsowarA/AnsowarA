@@ -10,7 +10,7 @@
 - 🔍 [<b>SOC Threat Investigation Lab</b>](https://github.com/AnsowarA/Splunk-SOC-Lab)
   - Splunk • T-Pot • Linux • SPL
 
-- 🛡️ [<b>Vulnerability Management Lab</b>](https://github.com/AnsowarA/Nessus-Vulnerability-Lab)
+- 🛡️ [<b>Vulnerability Management Lab</b>](https://github.com/AnsowarA/Nessus-Vulnerability-Management-Lab)
   - Nessus • Kali Linux • Metasploitable • Nmap
 
 - 🌐 [<b>Active Directory Security Lab</b>](https://github.com/AnsowarA/ActiveDirectoryLab)
