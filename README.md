@@ -7,8 +7,6 @@
 - 🛡️ [<b>Wazuh SIEM Home Lab</b>](https://github.com/AnsowarA/Wazuh-SIEM-Home-Lab)
   - Wazuh • Windows 11 • MITRE ATT&CK • Threat Hunting • Vulnerability Detection
     
-- 🔍 [<b>SOC Threat Investigation Lab</b>](https://github.com/AnsowarA/Splunk-SOC-Lab)
-  - Splunk • T-Pot • Linux • SPL
 
 - 🛡️ [<b>Vulnerability Management Lab</b>](https://github.com/AnsowarA/Nessus-Vulnerability-Management-Lab)
   - Nessus • Kali Linux • Metasploitable • Nmap
