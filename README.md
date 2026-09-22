@@ -17,14 +17,14 @@
 
 <h2>🖥️ Home Lab</h2>
 
-- 🖥️ [<b>Proxmox Cybersecurity Home Lab</b>](https://github.com/AnsowarA/Cybersecurity-Home-Lab)
+- 🖥️ [<b>Cybersecurity & Infrastructure Home Lab</b>](https://github.com/AnsowarA/Cybersecurity-Home-Lab)
   - Proxmox • Linux • Windows • Docker • T-Pot • Pi-hole • Synology NAS
 
 
 <h2>🏆 Certifications</h2>
 
-- [CompTIA Security+](https://example.com/securityplus)
-- [CompTIA A+](https://example.com/aplus)
+- [CompTIA Security+]()
+- [CompTIA A+]()
 
 
 <h2>🤳 Connect With Me</h2>
