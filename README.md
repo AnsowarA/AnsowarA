@@ -24,7 +24,6 @@
 <h2>🏆 Certifications</h2>
 
 - [CompTIA Security+]()
-- [CompTIA A+]()
 
 
 <h2>🤳 Connect With Me</h2>
