@@ -9,7 +9,7 @@
     
 
 - 🛡️ [<b>Vulnerability Management Lab</b>](https://github.com/AnsowarA/Nessus-Vulnerability-Management-Lab)
-  - Nessus • Kali Linux • Metasploitable • Nmap
+  - Nessus • Kali Linux • Metasploitable 
 
 - 🌐 [<b>Active Directory Security Lab</b>](https://github.com/AnsowarA/ActiveDirectoryLab)
   - Windows Server • Active Directory • PowerShell
