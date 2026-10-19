@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ansowar Adem! 👋</h1>
 
-<a href="https://www.linkedin.com/in/ansowaradem/">Cybersecurity Graduate</a> | CompTIA Security+ | CompTIA A+
+<a href="https://www.linkedin.com/in/ansowaradem/">Cybersecurity Graduate</a> 
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
@@ -20,10 +20,6 @@
 - 🖥️ [<b>Cybersecurity & Infrastructure Home Lab</b>](https://github.com/AnsowarA/Cybersecurity-Home-Lab)
   - Proxmox • Linux • Windows • Docker • T-Pot • Pi-hole • Synology NAS
 
-
-<h2>🏆 Certifications</h2>
-
-- [CompTIA Security+]()
 
 
 <h2>🤳 Connect With Me</h2>
