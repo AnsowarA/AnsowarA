@@ -1,30 +1,31 @@
 <h1>Hi, I'm Ansowar Adem! 👋</h1>
 
-<a href="https://www.linkedin.com/in/ansowaradem/">Cybersecurity Graduate</a> 
+**IT Support | Help Desk | Cybersecurity Graduate**
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
+I’m pursuing IT support and help desk opportunities, with a long-term goal of moving into cybersecurity. My projects cover troubleshooting, ticketing workflows, Active Directory, networking, and security monitoring.
 
-- 🛡️ [<b>Wazuh SIEM Home Lab</b>](https://github.com/AnsowarA/Wazuh-SIEM-Home-Lab)
-  - Wazuh • Windows 11 • MITRE ATT&CK • Threat Hunting • Vulnerability Detection
-    
+<h2>🖥️ IT Support Projects</h2>
 
-- 🛡️ [<b>Vulnerability Management Lab</b>](https://github.com/AnsowarA/Nessus-Vulnerability-Management-Lab)
-  - Nessus • Kali Linux • Metasploitable 
+- 🎫 [**IT Help Desk Ticketing Lab**](https://github.com/AnsowarA/IT-Help-Desk-Ticketing-Lab)
+  - Spiceworks • Ticket Creation • Triage • Resolution Documentation • Simulated Escalation
 
-- 🌐 [<b>Active Directory Security Lab</b>](https://github.com/AnsowarA/ActiveDirectoryLab)
+- 🌐 [**Active Directory Lab**](https://github.com/AnsowarA/ActiveDirectoryLab)
   - Windows Server • Active Directory • PowerShell
 
+<h2>🛡️ Cybersecurity Projects</h2>
 
-<h2>🖥️ Home Lab</h2>
+- 🛡️ [**Wazuh SIEM Home Lab**](https://github.com/AnsowarA/Wazuh-SIEM-Home-Lab)
+  - Wazuh • Windows 11 • MITRE ATT&CK • Threat Hunting • Vulnerability Detection
 
-- 🖥️ [<b>Cybersecurity & Infrastructure Home Lab</b>](https://github.com/AnsowarA/Cybersecurity-Home-Lab)
+- 🔍 [**Vulnerability Management Lab**](https://github.com/AnsowarA/Nessus-Vulnerability-Management-Lab)
+  - Nessus • Kali Linux • Metasploitable
+
+<h2>⚙️ Home Lab & Infrastructure</h2>
+
+- 🖥️ [**Cybersecurity & Infrastructure Home Lab**](https://github.com/AnsowarA/Cybersecurity-Home-Lab)
   - Proxmox • Linux • Windows • Docker • T-Pot • Pi-hole • Synology NAS
-
-
 
 <h2>🤳 Connect With Me</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/ansowaradem/)
 - [Email](mailto:ansowaradem@gmail.com)
-
-
