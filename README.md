@@ -1,16 +1,22 @@
 <h1>Hi, I'm Ansowar Adem! 👋</h1>
 
-**IT Support | Help Desk | Cybersecurity Graduate**
+**IT Support | Help Desk | Cybersecurity**
 
-I’m pursuing IT support and help desk opportunities, with a long-term goal of moving into cybersecurity. My projects cover troubleshooting, ticketing workflows, Active Directory, networking, and security monitoring.
+I’m pursuing IT support and help desk opportunities, with a long-term goal of moving into cybersecurity. My projects cover ticketing workflows, Active Directory, troubleshooting, networking, and security monitoring.
 
 <h2>🖥️ IT Support Projects</h2>
 
-- 🎫 [**IT Help Desk Ticketing Lab**](https://github.com/AnsowarA/IT-Help-Desk-Ticketing-Lab)
-  - Spiceworks • Ticket Creation • Triage • Resolution Documentation • Simulated Escalation
+- 🎫 [**osTicket Docker Help Desk Lab**](https://github.com/AnsowarA/osTicket-Docker-Help-Desk-Lab)
+  - Docker • osTicket • MariaDB • SLA Configuration • Agent Access • Ticket Transfers
+  - Deployed a local help desk, configured support workflows, and completed a ticket lifecycle with a simulated software request.
 
 - 🌐 [**Active Directory Lab**](https://github.com/AnsowarA/ActiveDirectoryLab)
-  - Windows Server • Active Directory • PowerShell
+  - Windows Server • Active Directory • DNS • DHCP • PowerShell
+  - Practiced domain setup, organizational units, user creation, and Windows client connectivity.
+
+- 🎫 [**IT Help Desk Ticketing Lab - Spiceworks**](https://github.com/AnsowarA/IT-Help-Desk-Ticketing-Lab)
+  - Spiceworks • Ticket Creation • Triage • Internal Notes • Closure • Simulated Escalation
+  - Practiced documenting and managing fictional hardware, network, and application access requests.
 
 <h2>🛡️ Cybersecurity Projects</h2>
 
